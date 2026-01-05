@@ -99,4 +99,3 @@ As principais referências utilizadas na disciplina incluem:
 
 Luiz Gustavo Dias
 Professor universitário (Graduação e MBA)
-Consultor em Business Intelligence e Analytics
