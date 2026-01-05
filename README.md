@@ -49,7 +49,7 @@ Os conteúdos da disciplina estão organizados de forma progressiva, incluindo:
 
 ## 🗂️ Estrutura do repositório
 
-```text
+```
 /
 ├── 01-slides-aula/            # Slides utilizados nas aulas
 ├── 02-materiais-estudo/       # Leituras e materiais complementares
@@ -58,5 +58,45 @@ Os conteúdos da disciplina estão organizados de forma progressiva, incluindo:
 ├── 05-atividades-fixacao/     # Exercícios para prática e revisão
 └── README.md
 
-📌 **Observação**  
-Este repositório é atualizado continuamente e reflete práticas didáticas e profissionais utilizadas em disciplinas de graduação e MBA, bem como em projetos reais de Business Intelligence e Dados.
+```
+## ▶️ Como utilizar este repositório
+
+- Consulte os slides de aula para acompanhar os conteúdos apresentados em sala;
+- Utilize os materiais de estudo como apoio teórico complementar;
+- Execute e analise os scripts para compreender a aplicação prática dos conceitos;
+- Realize as atividades avaliativas conforme orientações do professor;
+- Utilize as atividades de fixação para reforçar o aprendizado.
+
+---
+
+## ⚙️ Pré-requisitos
+
+- Conhecimentos básicos de banco de dados;
+- Familiaridade inicial com SQL;
+- Ambiente de desenvolvimento conforme orientações fornecidas em aula.
+
+---
+
+## ⚠️ Observações importantes
+
+- Os dados utilizados neste repositório são fictícios ou anonimizados, com finalidade exclusivamente didática;
+- Este material não representa ambientes produtivos reais;
+- Os conteúdos podem ser ajustados ao longo do semestre, de acordo com o andamento da turma.
+
+---
+
+## 📖 Referências
+
+As principais referências utilizadas na disciplina incluem:
+- Mannino, M. V. – Projeto, Desenvolvimento de Aplicações e Administração de Banco de Dados
+- Vida, E. S. – Data Warehouse
+- Macedo, R. T. – Projeto e Implementação de Sistemas de Apoio à Decisão
+- Sharda, R. – Business Intelligence e Análise de Dados para Gestão do Negócio
+
+---
+
+## 👨‍🏫 Professor responsável
+
+Luiz Gustavo Dias
+Professor universitário (Graduação e MBA)
+Consultor em Business Intelligence e Analytics
