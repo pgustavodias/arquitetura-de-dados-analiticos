@@ -98,4 +98,4 @@ As principais referências utilizadas na disciplina incluem:
 ## 👨‍🏫 Professor responsável
 
 Luiz Gustavo Dias
-Professor universitário (Graduação e MBA)
+(Professor universitário (Graduação e MBA))
