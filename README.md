@@ -56,6 +56,7 @@ Os conteúdos da disciplina estão organizados de forma progressiva, incluindo:
 ├── 03-scripts/                # Scripts SQL, ETL e exemplos práticos
 ├── 04-atividades-avaliativas/ # Enunciados das atividades avaliativas
 ├── 05-atividades-fixacao/     # Exercícios para prática e revisão
+└── Agenda de Aula.md
 └── README.md
 
 ```
