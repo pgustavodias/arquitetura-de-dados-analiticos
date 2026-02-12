@@ -1,4 +1,4 @@
-# 📚 Agenda de Aula — Data Warehouse e BI (2026)
+# 📚 Agenda de Aula — Arquitetura de Dados Analíticos (2026)
 
 📅 **Dias e horários das aulas**  
 - **Quarta-feira** — 2º horário  
