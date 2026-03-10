@@ -116,37 +116,37 @@ A disciplina será avaliada por meio dos seguintes instrumentos:
 ## 📌 Semana 6
 
 ### 📅 11/03 (Quarta)
-- Consultas Multidimensionais
+- Integra
 
 ### 📅 12/03 (Quinta)
-- 📝 **Atividade 4**
+- Consultas Multidimensionais
 
 ---
 
 ## 📌 Semana 7
 
 ### 📅 18/03 (Quarta)
-- Arquitetura de um Data Lake
+- 📝 **Atividade 4**
 
 ### 📅 19/03 (Quinta)
-- 📝 **Atividade 5**
+- Arquitetura de um Data Lake
 
 ---
 
-## 🚨 Semana 8 — Avaliação
+## 🚨 Semana 8 
 
 ### 📅 25/03 (Quarta)
-- Revisão de conteúdo
+- 📝 **Atividade 5**
 
 ### 📅 26/03 (Quinta)
-- 📝 **AVALIAÇÃO 1 (Prova 1)**
+- Revisão de conteúdo
 
 ---
 
-## 📌 Semana 9
+## 📌 Semana 9 — Avaliação
 
 ### 📅 01/04 (Quarta)
-- Devolutiva e correção comentada
+- 📝 **AVALIAÇÃO 1 (Prova 1)**
 
 ### 📅 02/04 (Quinta)
 - 🇧🇷 **Feriado**
@@ -156,6 +156,7 @@ A disciplina será avaliada por meio dos seguintes instrumentos:
 ## 📌 Semana 10
 
 ### 📅 08/04 (Quarta)
+- Devolutiva e correção comentada
 - Ferramentas tecnológicas para implementação do DW  
 - Preparação do ambiente físico
 
@@ -292,9 +293,9 @@ A disciplina será avaliada por meio dos seguintes instrumentos:
 | 19/02 | 📝 Atividade 1 |
 | 26/02 | 📝 Atividade 2 |
 | 05/03 | 📝 Atividade 3 |
-| 12/03 | 📝 Atividade 4 |
-| 19/03 | 📝 Atividade 5 |
-| 26/03 | 📝 **Avaliação 1 (Prova 1)** |
+| 18/03 | 📝 Atividade 4 |
+| 25/03 | 📝 Atividade 5 |
+| 01/04 | 📝 **Avaliação 1 (Prova 1)** |
 | 09/04 | 📝 Atividade 6 |
 | 16/04 | 📝 Atividade 7 |
 | 23/04 | 📝 Atividade 8 |
