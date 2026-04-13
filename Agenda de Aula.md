@@ -191,7 +191,7 @@ A disciplina será avaliada por meio dos seguintes instrumentos:
 
 ### 📅 29/04 (Quarta)
 - Integração de dados com o PDI
-- 
+
 ### 📅 30/04 (Quinta)
 - 📝 **Atividade 8**
 
@@ -240,7 +240,7 @@ A disciplina será avaliada por meio dos seguintes instrumentos:
 ## 🚀 Semana 18
 
 ### 📅 03/06 (Quarta)
-- 🚀 Projeto DW
+- 🎤 Apresentação do Projeto
 
 ### 📅 04/06 (Quinta)
 - 🇧🇷 **Feriado**
