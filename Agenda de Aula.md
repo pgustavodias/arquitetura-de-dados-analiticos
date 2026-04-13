@@ -157,42 +157,43 @@ A disciplina será avaliada por meio dos seguintes instrumentos:
 
 ### 📅 08/04 (Quarta)
 - Devolutiva e correção comentada
-- Ferramentas tecnológicas para implementação do DW  
-- Preparação do ambiente físico
+- Preparação de ambiente para uso do docker
 
 ### 📅 09/04 (Quinta)
-- 📝 **Atividade 6**
+- Ferramentas tecnológicas para implementação do DW  
+- Preparação do ambiente físico
 
 ---
 
 ## 📌 Semana 11
 
 ### 📅 15/04 (Quarta)
-- Introdução ao Pentaho  
-- Integração de dados com o PDI
+- Ferramentas tecnológicas para implementação do DW  
+- Preparação do ambiente físico
 
 ### 📅 16/04 (Quinta)
-- 📝 **Atividade 7**
+- 📝 **Atividade 6**
 
 ---
 
 ## 📌 Semana 12
 
 ### 📅 22/04 (Quarta)
+- Introdução ao Pentaho  
 - Integração de dados com o PDI
 
 ### 📅 23/04 (Quinta)
-- 📝 **Atividade 8**
+- 📝 **Atividade 7**
 
 ---
 
 ## 📌 Semana 13
 
 ### 📅 29/04 (Quarta)
-- Implementação do cubo OLAP
-
+- Integração de dados com o PDI
+- 
 ### 📅 30/04 (Quinta)
-- 📝 **Atividade 9**
+- 📝 **Atividade 8**
 
 ---
 
@@ -202,17 +203,17 @@ A disciplina será avaliada por meio dos seguintes instrumentos:
 - Implementação do cubo OLAP
 
 ### 📅 07/05 (Quinta)
-- 📝 **Atividade 10**
+- 📝 **Atividade 9**
 
 ---
 
 ## 🚀 Semana 15 — Início do Projeto Final (Projeto DW)
 
 ### 📅 13/05 (Quarta)
-- 🚀 Projeto DW
+- Implementação do cubo OLAP
 
 ### 📅 14/05 (Quinta)
-- 🚀 Projeto DW
+- 📝 **Atividade 10**
 
 ---
 
