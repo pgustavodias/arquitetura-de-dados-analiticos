@@ -179,20 +179,21 @@ A disciplina será avaliada por meio dos seguintes instrumentos:
 ## 📌 Semana 12
 
 ### 📅 22/04 (Quarta)
-- Introdução ao Pentaho  
-- Integração de dados com o PDI
+- Estudo dirigido
 
 ### 📅 23/04 (Quinta)
-- 📝 **Atividade 7**
+- Estudo dirigido
 
 ---
 
 ## 📌 Semana 13
 
 ### 📅 29/04 (Quarta)
+- Introdução ao Pentaho 
 - Integração de dados com o PDI
 
 ### 📅 30/04 (Quinta)
+- 📝 **Atividade 7**
 - 📝 **Atividade 8**
 
 ---
