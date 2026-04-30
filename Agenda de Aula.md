@@ -208,7 +208,7 @@ A disciplina será avaliada por meio dos seguintes instrumentos:
 
 ---
 
-## 🚀 Semana 15 — Início do Projeto Final (Projeto DW)
+## 🚀 Semana 15 
 
 ### 📅 13/05 (Quarta)
 - Implementação do cubo OLAP
@@ -218,7 +218,7 @@ A disciplina será avaliada por meio dos seguintes instrumentos:
 
 ---
 
-## 🚀 Semana 16
+## 🚀 Semana 16 — Início do Projeto Final (Projeto DW)
 
 ### 📅 20/05 (Quarta)
 - 🚀 Projeto DW
@@ -303,7 +303,7 @@ A disciplina será avaliada por meio dos seguintes instrumentos:
 | 23/04 | 📝 Atividade 8 |
 | 30/04 | 📝 Atividade 9 |
 | 07/05 | 📝 Atividade 10 |
-| 13/05 | 🚀 **Início do Projeto DW (Projeto Final)** |
+| 20/05 | 🚀 **Início do Projeto DW (Projeto Final)** |
 | 10/06 e 11/06 | 🎤 **Apresentações do Projeto** |
 | 18/06 | 📝 **Avaliação Final (Prova 2)** |
 | 01/07 | 📝 **2ª Chamada** |
