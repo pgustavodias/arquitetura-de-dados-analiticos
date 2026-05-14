@@ -1,0 +1,12 @@
+  <VirtualCube name="Suprimentos"
+               caption="Suprimentos: Resumo Gerencial"
+               visible="true">
+
+    <VirtualCubeDimension name="Fornecedor" />
+    <VirtualCubeDimension name="Data" />
+    <VirtualCubeDimension name="Produto" />
+
+    <VirtualCubeMeasure cubeName="Compra" name="Qtde Comprada" />
+    <VirtualCubeMeasure cubeName="Pedido Compra" name="Qtde do Pedido" />
+    
+  </VirtualCube>
